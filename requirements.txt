@@ -2,3 +2,6 @@ streamlit
 qrcode[pil]
 Pillow
 pandas
+requests
+beautifulsoup4
+pytz
